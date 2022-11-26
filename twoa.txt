@@ -1,0 +1,32 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+% NAME, IDNUMBER, UTORid
+
+ii.  The student continued to listen.
+  continued
+    Agent: 
+    Theme: 
+  listen
+    Agent: 
+
+iii. The student promised the instructor to listen.
+  promised
+    Agent: 
+    Theme: 
+    Recipient: 
+  listen
+    Agent: 
+
+iv. The student invited the instructor to listen.
+  invited
+    Agent: 
+    Theme: 
+    Recipient: 
+  listen
+    Agent: 
